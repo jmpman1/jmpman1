@@ -1,6 +1,8 @@
 # jmpman
 
-Cybersecurity Student @ FIAP • Offensive Security 
+Cybersecurity Enthusiast • Offensive & Defensive Security
+
+DCPT | CRTA | eJPT
 
 ---------------------------------------------------------
 
