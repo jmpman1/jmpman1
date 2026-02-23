@@ -2,7 +2,7 @@
 
 Cybersecurity Enthusiast • Offensive & Defensive Security
 
-DCPT | CRTA | eJPT
+OSCP+ | OSCP | eJPT | DCPT | CRTA
 
 ---------------------------------------------------------
 
