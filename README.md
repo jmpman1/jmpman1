@@ -1,6 +1,6 @@
 # jmpman
 
-Cybersecurity Enthusiast • Offensive & Defensive Security
+Cybersecurity Professional • Offensive & Defensive Security
 
 OSCP+ | OSCP | eJPT | DCPT | CRTA
 
